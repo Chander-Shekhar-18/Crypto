@@ -24,8 +24,12 @@
 ### Detail of any Crypto Currency : 
 <img src="https://github.com/Chander-Shekhar-18/Crypto/blob/master/images/Screenshot_2022-08-16-17-15-41-571_com.oliver.crypto.jpg" width ="250px" height ="500px">
 
+##
+
 ### Search Crypto Currency :
 <img src="https://github.com/Chander-Shekhar-18/Crypto/blob/master/images/Screenshot_2022-08-16-17-14-57-340_com.oliver.crypto.jpg" width ="250px" height ="500px">
+
+##
 
 ### Watchlist :
 
@@ -35,3 +39,4 @@
 <img src="https://github.com/Chander-Shekhar-18/Crypto/blob/master/images/Screenshot_2022-08-16-17-15-02-435_com.oliver.crypto.jpg" width ="250px" height ="500px">
 <img src="https://github.com/Chander-Shekhar-18/Crypto/blob/master/images/Screenshot_2022-08-16-17-15-30-793_com.oliver.crypto.jpg" width ="250px" height ="500px">
 
+##
