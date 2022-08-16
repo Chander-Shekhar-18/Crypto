@@ -19,6 +19,8 @@
 * Top Losers :
 <img src="https://github.com/Chander-Shekhar-18/Crypto/blob/master/images/Screenshot_2022-08-16-17-14-32-629_com.oliver.crypto.jpg" width ="250px" height ="500px">
 
+##
+
 ### Detail of any Crypto Currency : 
 <img src="https://github.com/Chander-Shekhar-18/Crypto/blob/master/images/Screenshot_2022-08-16-17-15-41-571_com.oliver.crypto.jpg" width ="250px" height ="500px">
 
